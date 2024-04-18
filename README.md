@@ -13,12 +13,12 @@ ___
 
 2. Backlog do Produto
 
-``` product-backlog.pdf ```
+``` product_backlog.pdf ```
 
 3. Backlog da Sprint
 
-``` sprint-backlog.pdf ```
+``` sprint_backlog.pdf ```
 
 4. Wireframes Figma
 
-``` /wireframes ```
+``` /wireframe ```
