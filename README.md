@@ -1,4 +1,4 @@
-# Minha API em REST com Machine Learning - Raquel Allemão
+# MVP Canvas -  APPointment
 
 Projeto parte da disciplina de **Gestão Ágil de Projetos e Produtos** - PUC Rio
 
